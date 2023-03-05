@@ -17,7 +17,7 @@ BMP_File* bmp = loadBMP(name);
 // for Thread
 struct Arg
 {
-	int n = -1; // น Th
+	int n = -1; // ยน Th
 	int size = -1;
 	int NT = 7;
 	int N = 1000;
@@ -68,10 +68,11 @@ void pThread(BMP_File* bmp, int NT = 7)
 
 	pthread_mutex_destroy(&mutex);
 }
-
+/*
 int main()
 {
 	pThread(bmp);
 	cout << "CountPThread: " << count_pth << endl;
 	freeBMP(bmp);
 }
+*/
