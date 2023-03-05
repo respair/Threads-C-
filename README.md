@@ -1,4 +1,4 @@
-# sem8_labs
 
-main.cpp :: CreateThread, std::thread, omp 
+
+main.cpp :: CreateThread, std::thread, omp \n 
 pthread.cpp :: ptgread
