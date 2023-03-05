@@ -1,4 +1,5 @@
 
 
-main.cpp :: CreateThread, std::thread, omp \n 
+main.cpp :: CreateThread, std::thread, omp 
+
 pthread.cpp :: ptgread
